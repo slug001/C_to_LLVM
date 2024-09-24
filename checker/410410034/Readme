@@ -1,0 +1,7 @@
+編譯和執行方式:
+輸入make就可以編譯和執行了!
+
+type checking rules , C subset 都在word檔中。 
+
+執行後會把test.c test2.c test3.c 這三個C code拆解成一個個token，並等待parser呼叫。
+typeChecker會把有type error的問題印出來。
