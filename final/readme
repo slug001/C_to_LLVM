@@ -1,0 +1,45 @@
+編譯和執行方式:
+輸入make就可以全部編譯執行，且產生對應的.ll檔案。
+
+除了作業4的基本要求:
+    Integer data types: int
+    arithmetic computation
+    Comparison expression
+    if-then / if-then-else 
+    printf()
+我還新增了其他功能:
+    Nested if construct
+    For-loop construct
+    while-loop construct
+    Loop construct + if construct
+    Floating point data type  (可以用在算術運算以及printf)
+    printf可以列印出float
+    scanf (可以接受int型態的輸入)
+
+下面是各個測試code代表的功能:    
+test0:
+    Integer data types: int
+    int 基本的四則運算
+test1:
+    助教給的範例.c
+    Comparison expression
+test2:
+    if elseif else
+    if-then / if-then-else 
+    
+    Nested if construct
+    printf()
+test3:
+    !!注意在執行的時候要輸入一個int 讓scanf能運作!!
+    Integer data types: int
+    while-loop construct
+    For-loop construct
+    Comparison expression
+    Loop construct + if construct
+    printf 
+    int float 四則運算
+    Floating point data type
+    arithmetic computation
+    scanf()  
+    if-then-else 
+    printf可以列印出float
